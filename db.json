@@ -1,5 +1,4 @@
-[
-    {
+{"events" :[   {
         "id": 5,
         "name": "Durban City Marathon",
         "isEnabled": true,
@@ -42,5 +41,5 @@
             "21KM"
         ],
         "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/township.jpg"
-    }
-]
+    }]
+}
