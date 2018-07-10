@@ -41,6 +41,17 @@
             "21KM"
         ],
         "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/township.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Two Oceans Marathon",
+        "isEnabled": false,
+        "year": 2018,
+        "distances": [
+            "56KM",
+            "21KM"
+        ],
+        "backgroundImageUrl": "https://drive.google.com/file/d/1p5GWNTWbvvU2yLW8BNRy_zU666mGDz5i/view"
     }],
     "images":[
         {
