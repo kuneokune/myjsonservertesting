@@ -42,7 +42,7 @@
         ],
         "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/township.jpg"
     }],
-    "images":[
+    "events/5/images":[
         {
             "id": 1,
             "raceEventId": 5,
