@@ -25,7 +25,7 @@
         "id": 2,
         "name": "PMB Marathon",
         "isEnabled": false,
-        "year": 2018,
+        "year": 2018, 
         "distances": [
             "42KM",
             "21KM"
