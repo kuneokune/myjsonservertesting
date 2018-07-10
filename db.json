@@ -1,45 +1,31 @@
-{"events" :[   {
-        "id": 5,
-        "name": "Durban City Marathon",
-        "isEnabled": true,
-        "year": 2018,
-        "distances": [
-            "42KM",
-            "21KM"
-        ],
-        "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/dbncity.jpg"
-    },
-    {
+{
+    "posts": [
+      {
         "id": 1,
-        "name": "Hillcrest Marathon",
-        "isEnabled": false,
-        "year": 2018,
-        "distances": [
-            "42KM",
-            "21KM"
-        ],
-        "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/hillcrest.jpg"
-    },
-    {
+        "title": "Post 1"
+      },
+      {
         "id": 2,
-        "name": "PMB Marathon",
-        "isEnabled": false,
-        "year": 2018, 
-        "distances": [
-            "42KM",
-            "21KM"
-        ],
-        "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/pbm.jpg"
-    },
-    {
+        "title": "Post 2"
+      },
+      {
         "id": 3,
-        "name": "Township to township Marathon",
-        "isEnabled": false,
-        "year": 2018,
-        "distances": [
-            "42KM",
-            "21KM"
-        ],
-        "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/township.jpg"
-    }]
-}
+        "title": "Post 3"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      },
+      {
+        "id": 2,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
