@@ -41,5 +41,47 @@
             "21KM"
         ],
         "backgroundImageUrl": "https://runnerspics/images/raceevents/durbancitymarathon/2018/township.jpg"
-    }]
+    }],
+    "images":[
+        {
+            "id": 1,
+            "raceEventId": 5,
+            "url": "https://runnerspics/images/raceevents/durbancitymarathon/raceimage1.jpg",
+            "tags": [
+                "Thobani Madonsela",
+                "2334",
+                "Old Mutual"
+            ]
+        },
+        {
+            "id": 2,
+            "raceEventId": 5,
+            "url": "https://runnerspics/images/raceevents/durbancitymarathon/raceimage2.jpg",
+            "tags": [
+                "Awonke Tini",
+                "4334",
+                "Old Mutual"
+            ]
+        },
+        {
+            "id": 3,
+            "raceEventId": 5,
+            "url": "https://runnerspics/images/raceevents/durbancitymarathon/raceimage3.jpg",
+            "tags": [
+                "Nathi Ngwane",
+                "5564",
+                "Durban Old Boys"
+            ]
+        },
+        {
+            "id": 4,
+            "raceEventId": 5,
+            "url": "https://runnerspics/images/raceevents/durbancitymarathon/raceimage4.jpg",
+            "tags": [
+                "Melusi Gumede",
+                "2572",
+                "Vitality"
+            ]
+        }
+    ]
 }
